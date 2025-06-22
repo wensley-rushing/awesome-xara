@@ -46,6 +46,11 @@ Triangle
 - gmsh
 
 
+## Utilities
+
+- [xara_units](https://github.com/chrystalchern/xara_units)
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
