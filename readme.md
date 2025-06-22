@@ -1,14 +1,7 @@
 # xara [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A currated list of open-source tools for working with the *xara*
+> A currated list of open-source tools for working with the [*xara*](https://xara.so)
 > finite element analysis engine.
-
-
-## Contents
-
-- [Linear](#Linear)
-- [Continuua](#Continuua)
-- [Conduction](#conduction)
 
 
 ## Rendering
