@@ -35,6 +35,7 @@ Distmesh
 - Distmesh
 - dmsh
 - pydistmesh
+- [xara-mesh](https://pypi.org/project/xara_mesh)
 
 Triangle
 - triangle
