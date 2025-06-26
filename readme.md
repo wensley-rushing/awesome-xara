@@ -33,7 +33,7 @@ VTK based:
 
 Distmesh
 - Distmesh
-- dmsh
+- *dmsh* robust Python implementation of Distmesh. Formerly free/open source, now proprietary. ([GitHub](https://github.com/meshpro/dmsh))
 - pydistmesh
 - [xara-mesh](https://pypi.org/project/xara_mesh)
 
