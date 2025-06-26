@@ -6,7 +6,7 @@
 
 ## Rendering
 
-- [veux](https://veux.io) - Python library for building glTF representations of finite element models ([GitHub](https://github.com/stairlab/veux))
+- [veux](https://veux.io) - Python library for conveniently visualizing finite element models with modern web technologies (glTF) ([GitHub](https://github.com/stairlab/veux))
 - [f3d](https://f3d.app/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
   (C++, BSD, [GitHub](https://github.com/f3d-app/f3d))
 - [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing.
